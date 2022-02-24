@@ -4,6 +4,17 @@
     <strong>Student Name:</strong> Oskar Ciebien   <strong>Student ID:</strong> G00369579
 </p>
 
+---
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Contents of the Notebooks](#contents-of-the-notebooks)
+- [How to run this Project on Jupyter Notebook](#how-to-run-this-project-on-jupyter-notebook)
+- [Requirements](#requirements)
+- [Credits](#credits)
+- [Contact Me](#contact-me)
+
 <br>
 
 ## Introduction
@@ -14,7 +25,7 @@
 
 <br>
 
-## Contents of the Notebooks
+## How to run this Project on Jupyter Notebook
 
 <br>
 
