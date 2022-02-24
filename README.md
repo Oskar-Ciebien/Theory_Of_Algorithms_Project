@@ -50,6 +50,12 @@ To open the Jupyter Notebooks in this repository, you need to:
 
 ## Credits
 
+### Module Content
+
+Throughout completing this project, I have heavily relied on the contents from the Theory of Algorithms module.
+
+- Dr. Ian McLoughlin Lecturer at Galway-Mayo Institute of Technology
+
 <br>
 
 ## Contact Me
