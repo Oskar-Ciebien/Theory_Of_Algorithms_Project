@@ -42,6 +42,10 @@ To open the Jupyter Notebooks in this repository, you need to:
 
 ## Requirements
 
+- WSL2
+- Cmder (Optional)
+- Anaconda (Optional, but recommended)
+
 <br>
 
 ## Credits
