@@ -19,6 +19,8 @@
 
 ## Introduction
 
+This is a project repository for the Theory of Algorithms Project 2022.
+
 <br>
 
 ## Contents of the Notebooks
