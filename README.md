@@ -31,6 +31,13 @@ This is a project repository for the Theory of Algorithms Project 2022.
 - The definition and explanation of the Bounded Post Correspondence Problem.
 - Solution to the Bounded Post Correspondence Problem.
 - Description of what an undecidable problem is with reference to the Post Correspondence Problem.
+  <br>
+
+### Countdown
+
+- The Countdown notebook explains what a Countdown Numbers Game is and the complexity of it.
+- The Countdown Number Game solution written in Python.
+- Explanation to the functional aspects to the code snippets.
 
 <br>
 
