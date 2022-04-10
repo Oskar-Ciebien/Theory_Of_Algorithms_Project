@@ -25,6 +25,13 @@ This is a project repository for the Theory of Algorithms Project 2022.
 
 ## Contents of the Notebooks
 
+### Post-Correspondence
+
+- This Post-Correspondence notebook contains the description of the Post Correspondence Problem.
+- The definition and explanation of the Bounded Post Correspondence Problem.
+- Solution to the Bounded Post Correspondence Problem.
+- Description of what an undecidable problem is with reference to the Post Correspondence Problem.
+
 <br>
 
 ## How to run this Project on Jupyter Notebook
