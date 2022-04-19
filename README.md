@@ -91,6 +91,10 @@ Throughout completing this project, I have heavily relied on the contents from t
 
 ## Contact Me
 
+<div align="center">
+
 | LinkedIn                                   | Email             |
 | ------------------------------------------ | ----------------- |
 | https://www.linkedin.com/in/oskar-ciebien/ | G00369579@gmit.ie |
+
+</div>
