@@ -74,6 +74,6 @@ Throughout completing this project, I have heavily relied on the contents from t
 
 ## Contact Me
 
-Email: G00369579@gmit.ie
-<br>
-LinkedIn: https://www.linkedin.com/in/oskar-ciebien/
+| LinkedIn                                   | Email             |
+| ------------------------------------------ | ----------------- |
+| https://www.linkedin.com/in/oskar-ciebien/ | G00369579@gmit.ie |
