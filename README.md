@@ -1,4 +1,8 @@
+<div align="center">
+
 # Theory of Algorithms Project 2022
+
+</div>
 
 <p align="center">
     <strong>Student Name:</strong> Oskar Ciebien   <strong>Student ID:</strong> G00369579
