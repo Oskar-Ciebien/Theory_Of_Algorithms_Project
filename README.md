@@ -41,6 +41,19 @@ This is a project repository for the Theory of Algorithms Project 2022.
 
 <br>
 
+<div align="center">
+
+You can view these notebooks in nbViewer or Binder by clicking on the badges below.
+
+|      Notebook       |                                                                                                      nbViewer                                                                                                      |                                                                                                                                                             Binder                                                                                                                                                              |
+| :-----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Post-Correspondence | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Theory_Of_Algorithms_Project/blob/main/post_correspondence.ipynb) | [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://notebooks.gesis.org/binder/jupyter/user/oskar-ciebien-t-orithms_project-2jvaxlb1/notebooks/post_correspondence.ipynb) |
+|      Countdown      |      [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Theory_Of_Algorithms_Project/blob/main/countdown.ipynb)      |      [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://notebooks.gesis.org/binder/jupyter/user/oskar-ciebien-t-orithms_project-87to4you/notebooks/countdown.ipynb)      |
+
+</div>
+
+<br>
+
 ## How to run this Project on Jupyter Notebook
 
 To open the Jupyter Notebooks in this repository, you need to:
