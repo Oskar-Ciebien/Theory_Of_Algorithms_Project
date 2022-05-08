@@ -10,20 +10,11 @@
 
 ---
 
-# Table of Contents
-
-- [Introduction](#introduction)
-- [Contents of the Notebooks](#contents-of-the-notebooks)
-- [How to run this Project on Jupyter Notebook](#how-to-run-this-project-on-jupyter-notebook)
-- [Requirements](#requirements)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
-
 <br>
 
 ## Introduction
 
-This is a project repository for the Theory of Algorithms Project 2022.
+This is a project repository for the Theory of Algorithms Project 2022. It proves that the learning outcomes of this module have been met. There are two jupyter notebooks in this repository. The **Post-Correspondence** notebook and the **Countdown** notebook.
 
 <br>
 
@@ -67,6 +58,9 @@ To open the Jupyter Notebooks in this repository, you need to:
 3. Open a command prompt or terminal on that cloned folder.
 4. Run jupyter lab by running the following command `jupyter lab`.
 5. A browser window should open with the Jupyter Lab.
+
+> **If jupyter lab will not open automatically in your default web browser.** Please copy and paste the localhost address that has been given to you in your command prompt.
+
 6. Feel free to open any of the notebooks from the left side panel.
 
 <br>
@@ -74,8 +68,8 @@ To open the Jupyter Notebooks in this repository, you need to:
 ## Requirements
 
 - WSL2
+- Python (Anaconda - Recommended)
 - Cmder (Optional)
-- Anaconda (Optional, but recommended)
 
 <br>
 
@@ -85,7 +79,11 @@ To open the Jupyter Notebooks in this repository, you need to:
 
 Throughout completing this project, I have heavily relied on the contents from the Theory of Algorithms module.
 
-- Dr. Ian McLoughlin Lecturer at Galway-Mayo Institute of Technology
+- Dr. Ian McLoughlin Lecturer at Galway City Atlantic Technological University (ATU), formely known as Galway-Mayo Institute of Technology.
+
+<br>
+
+I have also included any references I have used as part of my research in the **References** section in both notebooks.
 
 <br>
 
